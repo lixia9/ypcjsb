@@ -1,0 +1,16 @@
+{
+  "name": "1ywjsbridge",
+  "version": "1.6.1",
+  "description": "native to html  ,html to native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ywjsbridge"
+  ],
+  "author": "lixiaolong",
+  "license": "ISC",
+  "_from": "1ywjsbridge@1.0.0",
+  "_resolved": "http://registry.npm.taobao.org/1ywjsbridge/download/1ywjsbridge-1.0.0.tgz"
+}

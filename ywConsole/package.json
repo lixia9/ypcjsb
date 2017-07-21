@@ -1,0 +1,16 @@
+{
+  "name": "ywconsole",
+  "version": "1.0.1",
+  "description": "ywconsole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ywconsole"
+  ],
+  "author": "lixiaolong",
+  "license": "ISC",
+  "_from": "1ywjsbridge@1.0.0",
+  "_resolved": "http://registry.npm.taobao.org/ywconsole/download/ywconsole-1.0.0.tgz"
+}

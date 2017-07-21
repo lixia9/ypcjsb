@@ -1,0 +1,16 @@
+{
+  "name": "ywlayer",
+  "version": "1.4.4",
+  "description": "layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ywlayer"
+  ],
+  "author": "lixiaolong",
+  "license": "ISC",
+  "_from": "ywlayer@1.0.0",
+  "_resolved": "http://registry.npm.taobao.org/ywlayer/download/ywlayer-1.0.0.tgz"
+}
