@@ -50,7 +50,7 @@ export default {
 }
 </script>
 
-<style lang="sass">
+<style>
  html,body{
    height: 100%;
  }
@@ -58,15 +58,15 @@ export default {
   position:fixed;
   top:0;
   left:0;
-  line-height:100px;
-  height:100px;
+  line-height:1.4285714285714286rem;
+  height:1.4285714285714286rem;
   text-align:center;
   width:100%;
   background-color:white;
 
  }
  .content{
-  margin-top:100px;
+  margin-top:1.4285714285714286rem;
 
  }
   .con {
@@ -74,12 +74,12 @@ export default {
   width:100%;
   height:100%;
   left:0;
-  top:100px;
+  top:1.4285714285714286rem;
   overflow:hidden;
   }
  .back{
   float:left;
-  padding-left: 10px;
+  padding-left: 0.14285714285714285rem;
  }
 
 

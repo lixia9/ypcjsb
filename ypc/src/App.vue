@@ -1,5 +1,6 @@
 <template>
 	<div id="app">
+	asadasd
 		<keep-alive>
 			<router-view></router-view>
 		</keep-alive>

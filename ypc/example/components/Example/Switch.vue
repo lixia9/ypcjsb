@@ -29,7 +29,7 @@ export default {
 }
 </script>
 
-<style lang="sass">
+<style>
   .page-title {
     margin: 0 auto 40px;
     height: 130px;

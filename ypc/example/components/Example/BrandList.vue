@@ -173,7 +173,7 @@
  }
 </script>
 
-<style lang="sass">
+<style>
   em{
     color:red;
   }

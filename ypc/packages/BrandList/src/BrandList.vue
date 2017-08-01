@@ -205,7 +205,7 @@ li {
 a{
   color: #333;
   text-decoration: none;
-  font-size:0.32rem;
+
 }
 .page {
   width: 100%;

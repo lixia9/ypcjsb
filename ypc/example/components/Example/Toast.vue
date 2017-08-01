@@ -25,25 +25,25 @@ export default {
 }
 </script>
 
-<style lang="sass">
+<style>
   .page-title {
-    margin: 0 auto 40px;
-    height: 130px;
-    line-height: 130px;
-    font-size: 40px;
+    margin: 0 auto 0.5714285714285714rem;
+    height: 1.8571428571428572rem;
+    line-height: 1.8571428571428572rem;
+    font-size: 0.5714285714285714rem;
     background: #C60A1E;
   }
   .form-item {
-    height: 100px;
-    line-height: 100px;
-    padding: 0 40px;
-    font-size: 32px;
+    height: 1.4285714285714286rem;
+    line-height: 1.4285714285714286rem;
+    padding: 0 0.5714285714285714rem;
+    font-size: 0.45714285714285713rem;
     background: #FFFFFF;
-    margin-bottom: 2px;
+    margin-bottom: 0.02857142857142857rem;
   }
   .switch {
     float: right;
-    top: 20px;
+    top: 0.2857142857142857rem;
     right: 0;
   }
 </style>

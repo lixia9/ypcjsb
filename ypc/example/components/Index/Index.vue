@@ -25,7 +25,9 @@ export default {
         "Toast",
         "Swipe",
         "PullRefresh",
-        "BrandList"
+        "BrandList",
+        "Picker",
+        "Footer"
 
       ]
     }
@@ -38,12 +40,12 @@ export default {
 }
 </script>
 
-<style lang="sass">
+<style>
  .header{
   position:fixed;
   top:0;
   left:0;
-  line-height:60px;
+  line-height:0.8571428571428571rem;
   text-align:center;
   width:100%;
   background-color:white;
@@ -53,23 +55,23 @@ export default {
     font-family: Arial, "Microsoft YaHei";
 
     .iconfont.icon-zuosanjiao {
-      font-size: 36px;
+      font-size: 0.5142857142857142rem;
       color: #fff;
     }
   }
 
 
   .t {
-    height: 100px;
+    height: 1.4285714285714286rem;
     border-radius: 10px;
     background-color: #FF6666;
-    line-height: 100px;
+    line-height: 1.4285714285714286rem;
     text-align: center;
     font-weight: bold;
     color: white;
     width: 95%;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 0.14285714285714285rem;
   }
 
   .t a {

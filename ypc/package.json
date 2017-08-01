@@ -1,6 +1,6 @@
 {
-"name": "ypc",
-  "version": "2.0.6",
+  "name": "ypc",
+  "version": "2.0.9",
   "description": "Mobile UI Components Library based on Vue 2.0",
   "main": "lib/src/index.js",
   "files": [
@@ -9,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/lixia9/ypc.git"
+    "url": "git+https://github.com/lixia9/ypc.git"
   },
   "bugs": {
-     "url": "https://github.com/lixia9/ypc/issues"
+    "url": "https://github.com/lixia9/ypc/issues"
   },
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -33,6 +33,7 @@
   ],
   "dependencies": {
     "bulma": "^0.4.2",
+    "es6-promise": "^4.1.1",
     "vue": "^2.3.3"
   },
   "devDependencies": {

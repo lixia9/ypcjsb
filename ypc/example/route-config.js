@@ -6,6 +6,8 @@ import Lazyload from './components/Example/Lazyload.vue'
 import Swipe from './components/Example/Swipe.vue'
 import PullRefresh from './components/Example/PullRefresh.vue'
 import Toast from './components/Example/Toast.vue'
+import Picker from './components/Example/Picker.vue'
+import Footer from './components/Example/Footer.vue'
 
 
 export default {
@@ -50,6 +52,17 @@ export default {
       path: '/brandlist',
       name: 'BrandList',
       component: BrandList
+    },
+    {
+      path: '/picker',
+      name: 'Picker',
+      component: Picker
+    }
+    ,
+    {
+      path: '/footer',
+      name: 'Footer',
+      component: Footer
     }
 
   ]

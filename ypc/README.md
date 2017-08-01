@@ -1,12 +1,9 @@
-# Buefy
+# Ypc
 
-[![npm](https://img.shields.io/npm/v/buefy.svg)]()
-[![npm](https://img.shields.io/npm/dt/buefy.svg)]()
-[![npm](https://img.shields.io/npm/l/buefy.svg)]()
 
-Buefy is a lightweight library of responsive UI components for [Vue.js](https://vuejs.org/) based on [Bulma](http://bulma.io/) framework and design.
 
-[![Buefy](https://github.com/rafaelpimpa/buefy/blob/master/static/buefy-banner.png)](https://buefy.github.io)
+Ypc is a lightweight library of responsive UI components for [Vue.js](https://vuejs.org/) based on [Bulma](http://bulma.io/) framework and design.
+
 
 ## Features
 
@@ -33,30 +30,25 @@ Browse the [online documentation here](https://buefy.github.io).
 ### Install via npm
 
 ```bash
-npm install buefy
+npm install ypc
 ```
 
 ### Import and use Buefy. You can also enable individual components
 
 ```javascript
 import Vue from 'vue';
-import Buefy from 'buefy';
-import 'buefy/lib/buefy.css';
+import ypc from 'ypc';
+import 'ypc/lib/src/index.css';
 
-Vue.use(Buefy);
+Vue.use(ypc);
 
 // OR
 
-Vue.component(Buefy.Checkbox.name, Buefy.Checkbox);
-Vue.component(Buefy.Table.name, Buefy.Table);
+Vue.component(ypc.Swipe.name, ypc.Swipe);
+
 ...
 ```
 
-### Include Material Design Icons
-
-```html
-<link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
-```
 
 **Note:** If you want to customize the icons or the theme, access the [customization section on the online documentation](https://buefy.github.io/#/documentation/customization).
 
@@ -90,10 +82,4 @@ Might work in other versions, but it's not tested.
     * [vue-material](https://vuematerial.github.io/)
     * [element-ui](http://element.eleme.io/)
 
-## Copyright and License
 
-Copyright (c) 2017 Rafael Beraldo. Code released under the [MIT]((https://github.com/rafaelpimpa/buefy/blob/master/LICENSE)) license.
-
----
-
-> Twitter [@rafaelpimpa](https://twitter.com/rafaelpimpa)
